@@ -1,4 +1,4 @@
-# useful-bas
+# useful-bash
 
 Kill all tasks from a grep..
 
